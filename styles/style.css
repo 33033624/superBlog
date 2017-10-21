@@ -1,0 +1,16 @@
+html,body{
+  background-color: #F9FAFC;
+  height: 100%;
+  width: 100%;
+  font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+}
+#app_1{
+  height: 150px;
+  background: blue;
+  color: #5899d0;
+}
+.el-icon-loading{
+  margin-left: 50%;
+  margin-top: 20%;
+  transform: translateX(-50%);
+}
